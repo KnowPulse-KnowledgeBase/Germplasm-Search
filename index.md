@@ -3,10 +3,10 @@ layout: lesson
 root: .
 # Overall title for the Lesson.
 # This should be in the form of a question if possible.
-title: "Lesson Title"
+title: "How can I search for germplasm on KnowPulse?"
 
 # Single Sentence purpose for this lesson.
-short-purpose: "This lesson will show you how to..."
+short-purpose: "This lesson will show you how to use the pedigree tool and linked phenotypic data to explore a specific cross in the field"
 
 # Single-Sentence describing the researchers
 # who will be helped by this tutorial.
@@ -17,13 +17,13 @@ maintainers: "Lacey-Anne Sanderson, Ruobin Liu"
 
 # A short paragraph describing why we created this lesson.
 # What question is it trying to solve and why is that question important.
-why: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia orci risus. Quisque condimentum nunc posuere, rutrum nunc eu, cursus enim. Nam sit amet turpis sit amet erat pulvinar consequat eget ac erat. Aliquam erat volutpat. Aenean in bibendum nibh. Proin iaculis dictum augue nec faucibus. Integer et arcu tortor. Donec at tristique eros. Integer consequat aliquet mauris, vitae imperdiet orci iaculis sit amet. Cras sit amet mollis lacus. Sed ac auctor mi, sit amet laoreet tellus. Vivamus vehicula congue velit. Cras vulputate est nec velit pretium condimentum. Vivamus eu leo sed est ullamcorper tincidunt at non dolor. Duis vestibulum pellentesque felis, at aliquam risus condimentum at."
+why: "This tutorial is aiming to guide our pulse crop researchers through the procedure of germplasm searching. The germplasm search allows our researchers to view the pedigree chat and phenotypic data of individual crosses, which can be a useful tool for their own breeding programs. "
 
 # A short list of items researchers will learn in this lesson.
 learn:
-- "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-- "Quisque condimentum nunc posuere, rutrum nunc eu, cursus enim."
-- "Duis vestibulum pellentesque felis, at aliquam risus condimentum at."
+- "How to search for a specific cross on KnowPulse."
+- "How to view pedigree chat for a given cross"
+- "How to use the pedigree tool and linked phenotypic data to explore a specific cross in the field "
 
 data-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia orci risus. Quisque condimentum nunc posuere, rutrum nunc eu, cursus enim. Nam sit amet turpis sit amet erat pulvinar consequat eget ac erat. Aliquam erat volutpat. Aenean in bibendum nibh. Proin iaculis dictum augue nec faucibus. Integer et arcu tortor. Donec at tristique eros. Integer consequat aliquet mauris, vitae imperdiet orci iaculis sit amet. Cras sit amet mollis lacus. Sed ac auctor mi, sit amet laoreet tellus. Vivamus vehicula congue velit. Cras vulputate est nec velit pretium condimentum. Vivamus eu leo sed est ullamcorper tincidunt at non dolor. Duis vestibulum pellentesque felis, at aliquam risus condimentum at."
 ---
