@@ -13,3 +13,5 @@ keypoints:
 - 
 - 
 ---
+# Search for a Germplasm
+When you land on the Knowpulse home page, right-click on Germplasm on the top banner, it brings you to the data section.
