@@ -7,7 +7,7 @@ questions:
 - "How to view pedigree chat for a given cross"
 - "How to use the pedigree tool and linked phenotypic data to explore a specific cross in the field"
 objectives: 
--" Providing a step by step demonstration on how to use germplasm search on KnowPulse.
+- "Providing a step by step demonstration on how to use germplasm search on KnowPulse.
 keypoints: 
--"".
+- "none"
 ---
