@@ -9,7 +9,7 @@ questions:
 objectives:
 - "Providing a step by stop demonstration on how to use germplasm search on KnowPulse"
 keypoints:
-- "A Lesson should be a complete tutorial to answer a single question."
-- "An episode is a step in your tutorial demonstrating a cohesive collection of tasks."
-- "Create a lesson repository based on the [lesson template](https://github.com/KnowPulse-KnowledgeBase/lesson-template) by clicking **Use this template**."
+- 
+- 
+- 
 ---
