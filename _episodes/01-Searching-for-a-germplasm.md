@@ -9,8 +9,8 @@ questions:
 objectives:
 - "Providing a step by step demonstration on how to use germplasm search on KnowPulse"
 keypoints:
-- 
-- 
+- Log in before searching
+- Click on the crop image before the germplasm search
 - 
 ---
 ## Scenario # 1
