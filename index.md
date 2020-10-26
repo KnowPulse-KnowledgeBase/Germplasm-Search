@@ -3,7 +3,7 @@ layout: lesson
 root: .
 # Overall title for the Lesson.
 # This should be in the form of a question if possible.
-title: "How can I search for germplasm on KnowPulse?"
+title: "How can I search for a germplasm on KnowPulse?"
 
 # Single Sentence purpose for this lesson.
 short-purpose: "This lesson will show you how to use the pedigree tool and linked phenotypic data to explore a specific cross in the field"
