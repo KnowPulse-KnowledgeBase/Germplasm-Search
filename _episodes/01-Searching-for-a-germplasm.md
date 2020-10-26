@@ -36,4 +36,7 @@ We are using 2545S as an example to show the pedigree chart. The legend here sho
 Therefore, we scroll all the way down to see its phenotypic data, and these are the measured phenotypic traits for CDC Robin AGL. To see the values for any interesting trait, for example `Plant Biomass`, make sure we click on the CDC Robin AGL box, this will bring us to the germplasm page for CDC Robin AGL. On this page, a trait distribution chart can be viewed on the bottom.
 
 ![Screenshot of main code listing](../fig/Searching-for-a-germplasm-5.png)
+
 Use the drop-down to select AGILE Activity 2, then select plant biomass; now a violin plot is generated automatically. The x-axis here shows the year and growing locations while the y-axis shows the single plant biomass in grams.
+
+![Screenshot of main code listing](../fig/Searching-for-a-germplasm-6.png)
