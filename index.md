@@ -17,7 +17,7 @@ maintainers: "Lacey-Anne Sanderson, Ruobin Liu"
 
 # A short paragraph describing why we created this lesson.
 # What question is it trying to solve and why is that question important.
-why: "This tutorial is aiming to guide our pulse crop researchers through the procedure of germplasm searching. The germplasm search allows our researchers to view the pedigree chat and phenotypic data of individual crosses, which can be a useful tool for their own breeding programs. "
+why: "This tutorial is aiming to guide our pulse crop researchers through the procedure of germplasm searching. The germplasm search allows researchers to view the pedigree chat and phenotypic data of individual crosses, which can be a useful tool for their own breeding programs. "
 
 # A short list of items researchers will learn in this lesson.
 learn:
