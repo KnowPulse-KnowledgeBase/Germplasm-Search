@@ -13,7 +13,7 @@ keypoints:
 - Click on the crop image before the germplasm search
 - 
 ---
-## Scenario # 1
+## Lentil Breeging Scenario
 When you land on the Knowpulse home page, right-click on Germplasm on the top banner, it brings you to the data section. 
 
 ![Screenshot of main code listing](../fig/Searching-for-a-germplasm-1.png)
