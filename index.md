@@ -25,7 +25,7 @@ learn:
 - "How to view pedigree chat for a given cross"
 - "How to use the pedigree tool and linked phenotypic data to explore a specific cross in the field "
 
-data-description: "Lentil Germplasm."
+data-description: "Lentil Germplasm"
 ---
 
 The KnowPulse KnowledgeBase focuses on short question-based lessons to help researchers get their work done.
