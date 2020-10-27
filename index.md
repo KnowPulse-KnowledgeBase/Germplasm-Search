@@ -21,7 +21,7 @@ why: "This tutorial is aiming to guide our pulse crop researchers through the pr
 
 # A short list of items researchers will learn in this lesson.
 learn:
-- "How to search for a specific cross on KnowPulse."
+- "How to search for a specific cross on KnowPulse"
 - "How to view pedigree chat for a given cross"
 - "How to use the pedigree tool and linked phenotypic data to explore a specific cross in the field "
 
