@@ -9,8 +9,8 @@ questions:
 objectives:
 - "Providing a step by step demonstration on how to use germplasm search on KnowPulse."
 keypoints:
-- Log in with your user account before your searching
-- Click on the crop image before the germplasm search
+- Log in KnowPulse with your user account before searching.
+- Click on the crop image before the germplasm search.
 ---
 ## Lentil Breeging Scenario
 When you land on the Knowpulse home page, right-click on Germplasm on the top banner, it brings you to the data section. 
