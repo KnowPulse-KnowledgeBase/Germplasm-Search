@@ -6,11 +6,11 @@ root: .
 title: "How can I search for a germplasm on KnowPulse?"
 
 # Single Sentence purpose for this lesson.
-short-purpose: "This lesson will show you how to use the pedigree tool and linked phenotypic data to explore a specific cross in the field"
+short-purpose: "This lesson will show you how to use the pedigree tool and linked phenotypic data to explore a specific cross in the field."
 
 # Single-Sentence describing the researchers
 # who will be helped by this tutorial.
-who: "Pulse Crop Researchers focused on variation data."
+who: "Pulse Crop Researchers focused on variation data"
 
 # A comma-separated list of maintainers for this lesson.
 maintainers: "Lacey-Anne Sanderson, Ruobin Liu"
