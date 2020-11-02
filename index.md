@@ -17,12 +17,12 @@ maintainers: "Lacey-Anne Sanderson, Ruobin Liu"
 
 # A short paragraph describing why we created this lesson.
 # What question is it trying to solve and why is that question important.
-why: "This tutorial is aiming to guide our pulse crop researchers through the procedure of germplasm searching. The germplasm search allows researchers to view the pedigree chat and phenotypic data of individual crosses, which can be a useful tool for their own breeding programs. "
+why: "This tutorial is aiming to guide our pulse crop researchers through the procedure of germplasm searching. The germplasm search allows researchers to view the pedigree tool and phenotypic data of individual crosses, which can be a useful tool for their own breeding programs. "
 
 # A short list of items researchers will learn in this lesson.
 learn:
 - "How to search for a specific cross on KnowPulse"
-- "How to view pedigree chat for a given cross"
+- "How to view pedigree tool for a given cross"
 - "How to use the pedigree tool and linked phenotypic data to explore a specific cross in the field "
 
 data-description: "Lentil Germplasm"
