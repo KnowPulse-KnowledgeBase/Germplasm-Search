@@ -1,4 +1,3 @@
-
 ---
 title: "Searching for a Germplasm"
 teaching: 10
