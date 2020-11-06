@@ -1,5 +1,5 @@
 ---
-title: "Using the pedigree chart including that you can click on parents"
+title: "Accessing phenotypic data for parents"
 teaching: 5
 exercises: 5
 questions:
