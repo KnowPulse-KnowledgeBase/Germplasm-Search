@@ -5,7 +5,7 @@ exercises: 5
 questions:
 - "How to access phenotypic data for parents?"
 objectives:
-- "Providing a step by step demonstration on how to view a pedigree chart."
+- "Providing a step by step demonstration on how to find phenotypic data for a given breeding cross."
 keypoints:
 - Log in KnowPulse with your user account before searching.
 - Click on the crop image before the germplasm search.
