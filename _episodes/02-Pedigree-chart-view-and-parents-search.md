@@ -14,6 +14,9 @@ I am using 2545S as an example to show the pedigree chart. The legend here shows
 
 ![Screenshot of main code listing](../fig/Searching-for-a-germplasm-3.png)
 
-2545S has CDC Robin as its maternal parent, let us look it into details. 
+![Screenshot of main code listing](../fig/Searching-for-a-germplasm-10.png)
+
+
+We notice 2545S has CDC Robin as its maternal parent, let us look it into details. 
 
 ![Screenshot of main code listing](../fig/Searching-for-a-germplasm-4.png)
