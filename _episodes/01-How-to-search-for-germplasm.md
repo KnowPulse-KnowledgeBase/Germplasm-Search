@@ -1,7 +1,7 @@
 ---
 title: "Searching for a Germplasm"
-teaching: 10
-exercises: 10
+teaching: 5
+exercises: 5
 questions:
 - "How to search for a specific lentil cross on KnowPulse?"
 objectives:
